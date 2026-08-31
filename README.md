@@ -5,7 +5,7 @@ Aplicação mobile desenvolvida para a disciplina de **Aplicações em Dispositi
 ## Integrantes da Equipe
 * Lucas Magro
 * Evelyn Santos
-* Leonardo
+* Leonardo Sassi
 
 ## Status da Entrega (MVP - 1ª Tela Funcional)
 * **Tela desenvolvida:** Cadastro de Animal para Adoção.
